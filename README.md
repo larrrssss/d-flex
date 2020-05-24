@@ -21,3 +21,7 @@ After adding the class, your element is now flexified. You can start adding foll
 | `.child-fill`     | Makes each direct child be equal width and fill up the parent's width/height depending on axis |
 | `.justify-center` | Justifies the d-flex content into the center                                                   |
 | `.align-center`   | Moves the content into the center                                                              |
+
+## License 
+
+d-flex is licensed under [MIT License](https://github.com/Nacaulius/d-flex/blob/master/LICENSE).
